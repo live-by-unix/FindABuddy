@@ -52,7 +52,7 @@ export default function Profile() {
 
       <footer className="border-t border-border">
         <div className="max-w-3xl mx-auto px-5 py-6 text-center text-xs text-muted-foreground">
-          studybuddies — connect with learners worldwide.
+          FindABuddy — connect with people worldwide.
         </div>
       </footer>
     </div>

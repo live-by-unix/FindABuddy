@@ -25,7 +25,7 @@ export default function Browse() {
       <main className="max-w-3xl w-full mx-auto px-5 py-8 flex-1">
         <Card>
           <CardHeader>
-            <CardTitle>Browse studybuddies</CardTitle>
+            <CardTitle>Browse people</CardTitle>
             <CardDescription>
               Search and filter by topic to find your match.
             </CardDescription>
@@ -38,7 +38,7 @@ export default function Browse() {
 
       <footer className="border-t border-border">
         <div className="max-w-3xl mx-auto px-5 py-6 text-center text-xs text-muted-foreground">
-          studybuddies — connect with learners worldwide.
+          FindABuddy - Connect with people worldwide
         </div>
       </footer>
     </div>

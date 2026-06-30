@@ -137,7 +137,7 @@ export default function BuddiesGrid({ refreshKey }) {
       {filtered.length === 0 ? (
         <p className="text-muted-foreground text-sm">
           {buddies.length === 0
-            ? "No study buddies yet. Be the first!"
+            ? "No buddies yet. Be the first!"
             : "No buddies match your filter."}
         </p>
       ) : (
